@@ -3,8 +3,19 @@
   "version": "1.0.0",
   "description": "Cloning Youtube with Vanilla and NodeJS",
   "main": "index.js",
-  "author": "YeonA Choi",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeona-choi/wetube.git"
+  },
+  "author": "yeona choi",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeona-choi/wetube/issues"
+  },
+  "homepage": "https://github.com/yeona-choi/wetube#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
